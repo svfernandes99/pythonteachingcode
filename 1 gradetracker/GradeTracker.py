@@ -5,7 +5,7 @@ This comment in triple quotes is called a docstring.
 It is text that explains what a code file (aka module) or function does.
 See https://www.geeksforgeeks.org/python-docstrings/
 '''
-# project forked by Shania
+# project forked by Shania.
 
 #import libraries (aka module) first
 import statistics as s
